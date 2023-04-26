@@ -1,2 +1,3 @@
-# general_exceptions_example
-:no_entry: example of general exception classes
+# :no_entry: General Exceptions Example
+
+Example with two general exception classes to test exception behaviour.
